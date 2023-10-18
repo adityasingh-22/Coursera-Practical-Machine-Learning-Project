@@ -1,6 +1,6 @@
 ---
 title: Practical Machine Learning Project Report
-author: "Aditya Kannan"
+author: "Aditya Singh"
 output:
   html_document:
     fig_height: 9
